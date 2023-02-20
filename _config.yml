@@ -4,3 +4,9 @@ theme: just-the-docs
 
 url: https://conorb.one
 
+defaults: 
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
