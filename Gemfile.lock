@@ -253,6 +253,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-commonmark-ghpages
 
 BUNDLED WITH
    2.4.15
